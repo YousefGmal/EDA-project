@@ -1,1 +1,2 @@
 # EDA-project
+Exploratory Data Analysis (EDA) is the initial step in any data analysis project, and involves exploring, summarizing, and visualizing the data to gain insights and understand its underlying structure. An EDA project typically involves cleaning and preparing the data, visualizing the data using charts and graphs, and performing statistical analysis to identify patterns and trends in the data.
